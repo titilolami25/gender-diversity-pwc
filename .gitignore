@@ -1,0 +1,6 @@
+echo "*.csv
+*.xlsx
+*.xls
+*.zip
+*.bak
+*.pbix~" > .gitignore

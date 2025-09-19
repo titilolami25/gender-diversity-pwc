@@ -1,0 +1,7 @@
+# Ignore big or sensitive files
+*.csv
+*.xlsx
+*.xls
+*.sav
+*.zip
+*.bak
